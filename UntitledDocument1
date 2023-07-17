@@ -1,0 +1,13 @@
+git clone url
+git status
+git branch
+git branch -a
+git checkout -b somnath (create branch)
+create new file ===>>> some sample file
+git add filename
+git restored --staged file
+git commit -m "message"
+git status
+git push
+git pull
+git merge somnath
